@@ -1,4 +1,5 @@
 //Placeholder Work-Around -- Nate Szytel 1/28/2013
+//used for IE 7 and 8
   
 
 
